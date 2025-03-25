@@ -1,5 +1,7 @@
 # Badword API
 
+https://github.com/user-attachments/assets/a7d1f79f-58fa-4494-af18-37a882160ac9
+
 Uma API robusta para detecção de palavras ofensivas utilizando inteligência artificial.
 
 ## 🚀 Tecnologias Utilizadas
